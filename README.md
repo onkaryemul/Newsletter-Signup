@@ -19,9 +19,9 @@ To run the application locally, follow these steps:
 2. Install dependencies using `npm install`.
 3. Create a `.env` file in the root directory and add the following environment variables:
 
-   - MAILCHIMP_API_URL="<Mailchimp API endpoint>"
-   - USERNAME="<Your Mailchimp username>"
-   - API_KEY="<Your Mailchimp API key>"
+   - MAILCHIMP_API_URL="Mailchimp API endpoint"
+   - USERNAME="Your Mailchimp username"
+   - API_KEY="Your Mailchimp API key"
 
 4. Start the server using `node app.js`.
 5. Access the application by visiting `http://localhost:3000` in your web browser.
